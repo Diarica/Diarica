@@ -1,29 +1,11 @@
-# Diarica.github.io
+# Hi there This is Diarica
 
-# 你好，欢迎来到我的 GitHub！
+I like touching the low level impl.
 
-👋 我是 [你的名字]，一个热衷于编程和技术的人。专注于 [你擅长的领域]。
-
-## 技能
-
-- 编程语言：Python, C++, JavaScript, Java
-- Web 开发：React, Node.js
-- 工具：Git, Docker
-
-## 主要项目
-
-- [Project 1](https://github.com/username/project1): 项目的简短描述
-- [Project 2](https://github.com/username/project2): 项目的简短描述
-
-## 联系我
-
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- Twitter: [your-twitter](https://twitter.com/your-twitter)
-
-## 贡献
-
-1. Fork 本仓库。
-2. 创建新的分支。
-3. 提交更改。
-4. 提交 Pull Request。
+- I'm working on VectorCraft, a modern game engine/application framework with ECS & robust Core implementation. 
+- I'm working on MikuMusicQ, a refactoration of it's obselete version (WPF), for cooler UI & cross-platform. This is for MikuFans.
+- I'm Learning Math and Algorithms, I will learning them well!
+- I'm a 17 y-o student.
+- How to reach me : [Bilibili](https://space.bilibili.com/1268661715?spm_id_from=333.1296.0.0)
+- Fun fact : I used to introverted but now it's different, rap music changed my personalities.
+- My favourite rapper : YNW Melly, hope he could be back to home soon.
